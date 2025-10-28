@@ -148,9 +148,19 @@
               "icon": "lucide-list",
               "title": "Outline of teste"
             }
+          },
+          {
+            "id": "1bce0b248b93d027",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
